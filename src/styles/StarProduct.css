@@ -1,0 +1,14 @@
+.starproduct{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1vmax auto;
+}
+.starproduct div:last-child{
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+.starproduct div:first-child{
+    margin-left: 3vmax;
+}
